@@ -1,7 +1,10 @@
 # nopCommerce
 
-nopCommerce 支持 SQLServer, MySQL, PostgreSQL 数据库
+You can find the dockerfile and compose from official repository：https://github.com/nopSolutions/nopCommerce
 
-## 安装
+## Installation
 
-安装向导连接数据库处显示的信息有错误（仍然为SQLServer，给用户误导），已经给官方发工单：https://github.com/nopSolutions/nopCommerce/issues/5795
+nopCommerce can be installed on SQLServer, MySQL, PostgreSQL. 
+
+Only install successfully on MySQL5.7
+
